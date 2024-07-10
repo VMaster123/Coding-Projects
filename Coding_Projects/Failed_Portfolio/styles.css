@@ -1,0 +1,46 @@
+
+header {
+    background-color: black;
+    padding: auto;
+    color: white;
+
+}
+section {
+
+    background-color: orange;
+    padding: 10px 50px;
+    
+}
+
+footer {
+    background-color: aqua;
+    
+    padding: 10px 30px;
+}
+
+div {
+    margin: auto;
+    width: 100px;
+
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+
+
+}
+.row {
+    border: 1px solid #000; 
+    background-color: red;
+}
+
+ul {
+    padding: 0px;
+    margin: 0px;
+}
+li {
+    display: inline-block;
+    margin: 20px;
+    border: 20px white;
+}
